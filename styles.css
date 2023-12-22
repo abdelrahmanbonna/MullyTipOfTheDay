@@ -7,7 +7,7 @@
 
 
 body {
-    font-family: 'Shiny Balloon';
+    font-family: Shiny Balloon;
     margin: 0;
     padding: 0;
     display: flex;
@@ -20,7 +20,7 @@ body {
 .tip-container {
     text-align: center;
     background-color: #b84e51;
-    padding: 20px;
+    padding: 20px 20px 20px 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
@@ -36,5 +36,5 @@ h1 {
 #tip-text {
     font-size: 18px;
     color: #eee;
-    font-family: 'Shiny Balloon';
+    font-family: Shiny Balloon;
 }
