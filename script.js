@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "Tip 9: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Tip 10: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Tip 11: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "Tip 12: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         // Add more tips as needed
     ];
 
