@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.tip-container {
+    text-align: center;
+    background-color: #b84e51;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.tip-container img {
+    border-radius: 16px;
+}
+
+h1 {
+    color: #fff;
+}
+
+#tip-text {
+    font-size: 18px;
+    color: #eee;
+}
