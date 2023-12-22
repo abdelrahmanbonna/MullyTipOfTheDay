@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'ShinyBalloon';
+    font-family: 'Shiny Balloon';
     src: url('assets/fonts/ShinyBalloonDemoRegular.ttf') format('ttf');
     font-display: swap; /* or optional, block, fallback, etc. */
 }
@@ -7,7 +7,7 @@
 
 
 body {
-    font-family: 'ShinyBalloon', sans-serif;
+    font-family: 'Shiny Balloon';
     margin: 0;
     padding: 0;
     display: flex;
@@ -36,5 +36,5 @@ h1 {
 #tip-text {
     font-size: 18px;
     color: #eee;
-    font-family: 'ShinyBalloon';
+    font-family: 'Shiny Balloon';
 }
